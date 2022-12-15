@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@connecthing.io/connecthing-api": "1.0.2",
-    "express": "4.17.1"
+    "express": "4.17.3"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
